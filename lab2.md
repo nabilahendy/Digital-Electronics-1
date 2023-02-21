@@ -13,15 +13,18 @@ Based in the next table:
 
    Greater than:
 
-   
+   ![image](https://user-images.githubusercontent.com/115028247/220420953-9e5eb42d-f9f4-4756-8c61-a5e6130e62da.png)
+
 
    Less than:
 
-   
+   ![image](https://user-images.githubusercontent.com/115028247/220421003-ed68374a-2a42-4fbb-9838-22c379bc61b2.png)
+
 
 2. Mark the largest possible implicants in the K-map and according to them, write the equations of simplified SoP (Sum of the Products) form of the "greater than" function and simplified PoS (Product of the Sums) form of the "less than" function.
 
-   
+   ![image](https://user-images.githubusercontent.com/115028247/220421050-8089032d-6c32-4c00-8931-2ac421029ebd.png)
+
 
 ### 4-bit comparator
 
