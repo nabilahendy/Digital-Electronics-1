@@ -56,6 +56,10 @@ Connectivity: The board has a micro USB port for programming and communication w
 
 Overall, the Nexys A7-50T is a versatile and capable development board that can be used for a wide range of digital circuit and system design projects.
 
+## Flowchart
+
+![Imagen de WhatsApp 2023-05-02 a las 20 14 56](https://user-images.githubusercontent.com/63504192/235751094-cae98737-98c1-4dd1-9ef0-79313740ff50.jpg)
+
 ## VHDL description
 
 
